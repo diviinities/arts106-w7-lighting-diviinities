@@ -236,7 +236,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4041835104324166}
   m_Layer: 0
-  m_Name: CalibrationGeometry
+  m_Name: tank and lighting
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
